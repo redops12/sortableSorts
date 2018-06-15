@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=utl
+comment1.params=a
+comment1.target=void\ printArr(int[])
+comment2.params=a
+comment2.target=int[]\ cpy(int[])
+comment3.params=a\ min\ max
+comment3.target=void\ random(int[],\ int,\ int)
+comment4.params=question
+comment4.target=int\ askInt(java.lang.String)
+comment5.params=question
+comment5.target=char\ askChar(java.lang.String)
+comment6.params=question
+comment6.target=java.lang.String\ ask(java.lang.String)
+comment7.params=question
+comment7.target=double\ askDouble(java.lang.String)
+comment8.params=statement
+comment8.target=void\ say(java.lang.String)
+numComments=9

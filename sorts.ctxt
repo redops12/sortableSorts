@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=sorts
+comment1.params=a
+comment1.target=void\ main(int[])
+comment10.params=a
+comment10.target=int\ max(int[])
+comment11.params=a
+comment11.target=int\ sum(int[])
+comment12.params=a\ start
+comment12.target=int\ sum(int[],\ int)
+comment2.params=a
+comment2.target=void\ shuffle(int[])
+comment3.params=a\ b
+comment3.target=void\ count(int[],\ int)
+comment4.params=a
+comment4.target=void\ bubbleInc(int[])
+comment5.params=a
+comment5.target=void\ bubbleDec(int[])
+comment6.params=a\ b\ c
+comment6.target=void\ swap(int[],\ int,\ int)
+comment7.params=a
+comment7.target=void\ selectionInc(int[])
+comment8.params=a
+comment8.target=void\ selectionDec(int[])
+comment9.params=a
+comment9.target=int\ min(int[])
+numComments=13
